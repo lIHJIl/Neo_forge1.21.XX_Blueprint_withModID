@@ -1,3 +1,15 @@
+This is a Blueprint for neroforge 1.21.xxversions ;
+to make a new mod Refactor class name,package name, MODID, and gradle properties And version compatibilty ;
+then biuld and run client ;
+I have checked and It worked1 ; 
+
+
+
+
+
+
+
+
 
 Installation information
 =======
